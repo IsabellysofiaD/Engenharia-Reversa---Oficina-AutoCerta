@@ -1,0 +1,22 @@
+{
+  "name": "engenharia-reversa---oficina-autocerta",
+  "version": "1.0.0",
+  "description": "\"# Oficina-AutoCerta\" \r # 2. Modelo Entidade-Relacionamento (DER)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabellysofiaD/Engenharia-Reversa---Oficina-AutoCerta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabellysofiaD/Engenharia-Reversa---Oficina-AutoCerta/issues"
+  },
+  "homepage": "https://github.com/IsabellysofiaD/Engenharia-Reversa---Oficina-AutoCerta#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6"
+  }
+}
